@@ -72,4 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ```
 $ yarn add husky lint-staged prettier
 $ yarn add react-bootstrap bootstrap prop-types
+$ yarn add redux react-redux
+$ yarn add redux-saga
 ```
