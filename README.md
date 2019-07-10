@@ -75,4 +75,6 @@ $ yarn add react-bootstrap bootstrap prop-types
 $ yarn add redux react-redux
 $ yarn add redux-saga
 $ yarn add react-router-dom
+$ yarn add styled-components
+$ yarn add auth0-js
 ```
